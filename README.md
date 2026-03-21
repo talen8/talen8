@@ -1,7 +1,5 @@
 <p align="center"><a href="https://talen.top"><img width="80%" alt="Hello, I'm Talen." src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
-
 ### 你好，我是 Talen 👋
 
 一名深耕技术的代码爱好者，始终对代码世界抱有十足的好奇与探索欲。比起悬空的创意，我更偏爱打造那些有趣、又能真正落地的项目，在一行行代码里，保持热爱，稳步前行。
