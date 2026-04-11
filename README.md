@@ -12,6 +12,11 @@
 ### POST
 
 <!-- BLOG-POST-LIST:START -->
+- [盘点开发者眼里的赛博大善人（一）](https://blog.talen.top/posts/0oc34lqd)
+- [博客系统 FlecBlog 现已正式开源](https://blog.talen.top/posts/nem9jf8q)
+- [Windows 注册表原理与实战指南](https://blog.talen.top/posts/3gkrg8et)
+- [GitHub Actions 自动化部署全攻略](https://blog.talen.top/posts/ed2jfzfv)
+- [自研博客系统打造极致极简创作体验](https://blog.talen.top/posts/xniailcy)
 <!-- BLOG-POST-LIST:END -->
 
 ### SKILL
