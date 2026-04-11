@@ -9,16 +9,6 @@
 - 🧩 平时会在前端、后端和工具链之间切换
 - 🌱 相信持续实践，慢慢打磨，慢慢进步
 
-### POST
-
-<!-- BLOG-POST-LIST:START -->
-- [盘点开发者眼里的赛博大善人（一）](https://blog.talen.top/posts/0oc34lqd)
-- [博客系统 FlecBlog 现已正式开源](https://blog.talen.top/posts/nem9jf8q)
-- [Windows 注册表原理与实战指南](https://blog.talen.top/posts/3gkrg8et)
-- [GitHub Actions 自动化部署全攻略](https://blog.talen.top/posts/ed2jfzfv)
-- [自研博客系统打造极致极简创作体验](https://blog.talen.top/posts/xniailcy)
-<!-- BLOG-POST-LIST:END -->
-
 ### SKILL
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -37,6 +27,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+[![views](https://komarev.com/ghpvc/?username=talen8&label=Views&style=flat-square)](https://github.com/talen8)
 
 ### STATS
 
@@ -50,4 +41,16 @@
   <a href="https://github.com/talen8" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=talen8&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=8" alt="Linguagens mais usadas" width="405" height="auto" loading="lazy" /></a>
 </p>
 
-<sub>做点有趣的，也做点有用的。</sub>
+### POST
+
+<!-- BLOG-POST-LIST:START -->
+- [盘点开发者眼里的赛博大善人（一）](https://blog.talen.top/posts/0oc34lqd)
+- [博客系统 FlecBlog 现已正式开源](https://blog.talen.top/posts/nem9jf8q)
+- [Windows 注册表原理与实战指南](https://blog.talen.top/posts/3gkrg8et)
+- [GitHub Actions 自动化部署全攻略](https://blog.talen.top/posts/ed2jfzfv)
+- [自研博客系统打造极致极简创作体验](https://blog.talen.top/posts/xniailcy)
+<!-- BLOG-POST-LIST:END -->
+
+<div align="right">
+  <sub>做点有趣的，也做点有用的。</sub>
+</div>
