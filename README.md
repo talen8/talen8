@@ -31,8 +31,13 @@
 ### STATS
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=talen8&show_icons=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff&ring_color=3178C6" alt="GitHub stats for talen8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talen8&layout=compact&title_color=111111&text_color=444444&bg_color=ffffff" alt="Top languages for talen8" />
+  <a href="https://github.com/talen8" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api?username=talen8&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=false&disable_animations=false&number_format=short" alt="GitHub Stats" width="464" height="auto" loading="lazy" /></a>
+  <a href="https://github.com/talen8" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=talen8&theme=default&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de talen8" width="466" height="194" loading="lazy" /></a>
+</p>
+
+<p>
+  <a href="https://nice-readme.vercel.app/wakatime" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/wakatime?username=sync&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=8" alt="WakaTime Stats" width="466" height="auto" loading="lazy" /></a>
+  <a href="https://github.com/talen8" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=talen8&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=8" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
 </p>
 
 <sub>做点有趣的，也做点有用的。</sub>
