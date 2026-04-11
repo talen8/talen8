@@ -37,7 +37,7 @@
 </p>
 
 <p>
-  <a href="https://nice-readme.vercel.app/wakatime" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/wakatime?username=sync&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=8" alt="WakaTime Stats" width="405" height="auto" loading="lazy" /></a>
+  <a href="https://nice-readme.vercel.app/wakatime" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/wakatime?username=talen8&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=8" alt="WakaTime Stats" width="405" height="auto" loading="lazy" /></a>
   <a href="https://github.com/talen8" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=talen8&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=8" alt="Linguagens mais usadas" width="405" height="auto" loading="lazy" /></a>
 </p>
 
